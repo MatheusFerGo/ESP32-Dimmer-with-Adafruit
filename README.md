@@ -15,3 +15,7 @@ Principais Componentes Utilizados
 
 Objetivo
 O projeto tem como objetivo criar uma solução simples e acessível para automação residencial, permitindo que qualquer pessoa controle dispositivos elétricos remotamente ou por comandos de voz.
+
+Documentação
+- Adafruit IO MQTT Protocol: https://learn.adafruit.com/welcome-to-adafruit-io/adafruit-io-mqtt-api
+- IFTTT Applets Creation: https://help.ifttt.com/hc/en-us/sections/4725315362715-Creating-and-managing-Applets
